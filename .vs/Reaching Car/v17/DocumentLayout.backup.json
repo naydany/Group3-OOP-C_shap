@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Reaching Car\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|C:\\Users\\DELL\\Desktop\\Reaching Car\\reaching car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|c:\\users\\dell\\desktop\\reaching car\\reaching car\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|c:\\users\\dell\\desktop\\reaching car\\reaching car\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|C:\\Users\\DELL\\Desktop\\Reaching Car\\reaching car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Form1.cs",
               "RelativeDocumentMoniker": "Reaching Car\\Form1.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Reaching Car\\Form1.Designer.cs",
@@ -70,20 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\GameManager.cs",
               "RelativeDocumentMoniker": "Reaching Car\\GameManager.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\GameManager.cs",
               "RelativeToolTip": "Reaching Car\\GameManager.cs",
-              "ViewState": "AgIAABEAAAAAaWZmZqYnwB0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T07:53:33.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Coin.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Coin.cs",
               "RelativeDocumentMoniker": "Reaching Car\\Coin.cs",
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Enemy.cs",
               "RelativeDocumentMoniker": "Reaching Car\\Enemy.cs",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameObject.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\GameObject.cs",
               "RelativeDocumentMoniker": "Reaching Car\\GameObject.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Form1.cs",
               "RelativeDocumentMoniker": "Reaching Car\\Form1.cs",
