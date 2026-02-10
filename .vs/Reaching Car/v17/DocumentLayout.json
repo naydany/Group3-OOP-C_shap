@@ -7,14 +7,26 @@
       "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|c:\\users\\dell\\desktop\\reaching car\\reaching car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|c:\\users\\dell\\desktop\\reaching car\\reaching car\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> fdcb911d14152fa9eff0e23efc4ebc928f2c2c22
     },
     {
       "AbsoluteMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|c:\\users\\dell\\desktop\\reaching car\\reaching car\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|c:\\users\\dell\\desktop\\reaching car\\reaching car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> fdcb911d14152fa9eff0e23efc4ebc928f2c2c22
       "AbsoluteMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|c:\\users\\dell\\desktop\\reaching car\\reaching car\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876A11A5-E51C-4050-BF76-34BED8639523}|Reaching Car\\Reaching Car.csproj|solutionrelative:reaching car\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,6 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -60,6 +73,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T05:50:12.748Z",
+=======
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Form1.cs",
+              "RelativeDocumentMoniker": "Reaching Car\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Form1.cs",
+              "RelativeToolTip": "Reaching Car\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:39:17.327Z",
+              "IsPinned": true,
+>>>>>>> fdcb911d14152fa9eff0e23efc4ebc928f2c2c22
               "EditorCaption": ""
             },
             {
@@ -70,12 +99,74 @@
               "RelativeDocumentMoniker": "Reaching Car\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Form1.Designer.cs",
               "RelativeToolTip": "Reaching Car\\Form1.Designer.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAADcBAAAAAAAAAAAmwEEBAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T12:56:30.705Z",
               "EditorCaption": ""
             },
             {
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:56:30.705Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\GameManager.cs",
+              "RelativeDocumentMoniker": "Reaching Car\\GameManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\GameManager.cs",
+              "RelativeToolTip": "Reaching Car\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T07:53:33.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Coin.cs",
+              "RelativeDocumentMoniker": "Reaching Car\\Coin.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Coin.cs",
+              "RelativeToolTip": "Reaching Car\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T07:52:56.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Enemy.cs",
+              "RelativeDocumentMoniker": "Reaching Car\\Enemy.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\Enemy.cs",
+              "RelativeToolTip": "Reaching Car\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T07:52:12.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\GameObject.cs",
+              "RelativeDocumentMoniker": "Reaching Car\\GameObject.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Reaching Car\\Reaching Car\\GameObject.cs",
+              "RelativeToolTip": "Reaching Car\\GameObject.cs",
+              "ViewState": "AgIAAAMAAAAAMjMzMzMLwBAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T07:50:38.623Z"
+            },
+            {
+>>>>>>> fdcb911d14152fa9eff0e23efc4ebc928f2c2c22
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
@@ -86,6 +177,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T12:23:50.529Z",
               "EditorCaption": " [Design]"
+<<<<<<< HEAD
             },
             {
               "$type": "Document",
@@ -112,6 +204,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T11:39:17.327Z",
               "EditorCaption": ""
+=======
+>>>>>>> fdcb911d14152fa9eff0e23efc4ebc928f2c2c22
             }
           ]
         }
