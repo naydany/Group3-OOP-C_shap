@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Group3_project_cshap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de818fc1ff8cbf893f757005926b995af2e210b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcf7c55f06d9f2cd1a21bf3c471c6592a0f925c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Group3_project_cshap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Group3_project_cshap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
